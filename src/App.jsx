@@ -24,6 +24,7 @@ function App() {
       <Testimonial/>
       <Subscribe/>
       <Footer/>
+      
     </div>
   )
 }
