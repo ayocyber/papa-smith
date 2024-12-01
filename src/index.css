@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.gradient-text {
+  background: linear-gradient(
+    105.17deg,
+    rgba(153, 0, 221, 0.933) -22.58%,
+    #ffc107 45.89%,
+    #4caf50 106.74%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-custom-brown {
+  color: rgba(121, 85, 72, 1);
+}
+
+.bg-gold{
+  background-color: rgba(255, 234, 172, 1);
+  
+}
+
+
