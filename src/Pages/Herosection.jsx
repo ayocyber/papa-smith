@@ -35,7 +35,7 @@ const Herosection = () => {
          </div>
 
       </div>
-    <div className="absolute w-[1520px] h-[876px] mx-20 top-8 pt-20">
+    <div className="absolute  md:w-[1520px] md:h-[876px] mx-20 top-8 pt-20">
     <img 
     src={Chicken}
     alt="Hero Section Image" 

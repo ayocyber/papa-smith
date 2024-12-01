@@ -46,7 +46,7 @@ const About = () => {
         </div>
       
       </div>
-      <div className='absolute w-[1520px] h-[876px] -top-[50px]'>
+      <div className='absolute md:w-[1520px] md:h-[876px] -top-[50px]'>
         <img src={Chick} className='w-full h-full'/>
       </div>
 
