@@ -4,7 +4,7 @@ import { ArrowDownLeftFromSquare, SquareArrowLeft, SquareArrowRight } from 'luci
 import left from "../asset/left.png"
 import right from "../asset/right.png"
 import goat from "../asset/goat.jpg"
-import bigChich from "../asset/bigChick.png"
+import bigChich from "../asset/bigchick.png"
 import pigs from "../asset/pigs.png"
 import layout from "../asset/Rectangle 338.png"
 import button from "../asset/Button.png"
